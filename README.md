@@ -65,6 +65,9 @@ https://k3-walfree-rescue-n4-2026-09-13.obs.cn-north-4.myhuaweicloud.com/shard5.
 ```
 
 ## 获取方式 B：BitTorrent
+.torrent 文件直链 / Torrent file:
+https://k3-walfree-rescue-n4-2026-09-13.obs.cn-north-4.myhuaweicloud.com/walfree_xunlei_v2_2026-09-13.torrent
+
 info-hash: `c72f58acffe1acb990965549ee6d56c9864792bd`（23 trackers）
 
 magnet:
